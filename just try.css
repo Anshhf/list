@@ -1,0 +1,232 @@
+*{
+    padding:0px;
+    margin: 0px;
+}
+.rajaindravarma{
+    background-color: rgb(12, 10, 10);
+    border-radius: 25px;
+    
+   
+}
+
+
+.bheem{ 
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    width:100%;
+    height:50px;
+    border-radius: 9px;
+
+}
+.chutki{
+    color: white;
+    justify-content: left;
+    padding:10px 10px 10px 10px;
+    font-size: 25px;
+    
+}
+.chutki:hover{
+    border-radius:5px;
+    color:yellow;
+    background-color: rgb(34, 33, 33);
+}
+.jaggu{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    padding:10px 10px 10px 10px;
+}
+.jaggu a{
+    text-decoration: none;
+    color: white;
+}
+.jaggu a:hover{
+    color: blueviolet;
+    background-color: rgb(34, 33, 33);
+    border-radius: 5px;
+}
+
+h2{
+    color: white;
+    text-align: center;
+    margin-top:5px ;
+    padding-top: 50px;
+    
+}
+h3{
+    color: white;
+    text-align: center;
+    margin-top:10px;
+}
+.raju{
+    color:white;
+    margin-top: 10px;
+    text-align: center;
+}
+.kalia{ 
+    text-align: center;
+    margin-top: 30px;
+   
+}
+.kalia1{
+    background-color: blue;
+    color: white;
+    border-radius: 50px;
+    width: 300px;
+    height: 55px;
+}
+.tuntunmousi{
+    text-align: center;
+    margin-top:10px;
+}
+.tuntunmousi1{
+    background-color: transparent;
+    color:rgb(245, 242, 242);
+    border-radius: 50px;
+    width:300px ;
+    height:55px ;
+
+}
+.dolu{
+    margin-top:10px;
+    text-align: center;
+}
+.bolu{
+   text-align: center;
+   margin-top: 50px;
+  
+} 
+.bolu1{
+    border-radius: 100%;
+}
+.dolu1{
+    border-radius:100%;
+}
+.doraandbuji{
+   margin-top:5px ;
+   background-color: beige;
+   border-radius:25px;
+   height: 1000px;
+
+}
+.dora{
+   padding-top: 50px;
+    text-align: center;
+    font-size: 100px;
+}
+.buji{
+   width: 250px;
+   height: 8px;
+   background: linear-gradient(to left,rgb(90, 194, 236),blueviolet);
+   border-radius: 50px;
+   margin: 20px auto;
+   
+    
+
+}
+.kurunnari{
+     width: 225px;
+   height: 8px;
+   background: linear-gradient(to right,rgb(90, 194, 236),blueviolet);
+   border-radius: 50px;
+   margin: 20px auto;
+
+}
+.packbag{
+    text-align: center;
+    padding-top:5px ;
+    font-size: 25px;
+    font-weight: 100;
+    margin-bottom:5px ;
+    color: black;
+}
+.p2{
+    text-align: center;
+    font-size:25px;
+}
+.s2{
+    
+    color: rgb(210, 42, 30);
+}
+.map{
+    text-align: center;
+    font-size:25px ;
+    margin-bottom: 5px;
+}
+.p3{
+    text-align: center;
+    font-size: 25px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+.jack{
+    text-align:center ;
+     border: 1px solid black;
+    border-collapse: collapse;
+    margin: 0px 500px 0px 500px;
+    border-radius: 20px;
+   
+   
+}
+.p5{
+    font-size: 25px;
+    padding:15px ;
+}
+.oggy{
+    background-color: black;
+    margin-top: 5px;
+    border-radius:25px;
+    height:1000px;
+}
+.joey{
+    color: white;
+    text-align: center;
+
+}
+.marky{
+    width: 130px;
+    height: 8px;
+    background: linear-gradient( to right, skyblue,blueviolet );
+    margin: 20px auto;
+    border-radius: 25px;
+}
+
+.tom{
+    border-radius: 25px;
+    padding-top:50px;
+ height: 600px;
+ background: linear-gradient(to right,red,orange);
+}
+.hy{
+    text-align: center;
+    margin-bottom: 10px;
+    font-size: 50px;
+}
+.hi{
+    text-align: center;
+    margin-bottom: 25px;
+
+}
+.jerry{
+    text-align: center;
+} 
+input{
+    width: 400px;
+    height: 50px;
+    border-radius: 8px;
+    padding-left: 25%;
+} 
+textarea{
+    width: 400px;
+    height: 50px;
+    border-radius: 8px;
+    padding-left: 25%;
+}
+button{
+    color: white;
+    background-color: blue;
+    border-radius: 30px;
+    width: 200px;
+    height: 50px;
+}

@@ -1,0 +1,62 @@
+.center{
+    display:flex;
+    justify-content: space-between;
+    background-color: beige;
+    
+    
+}
+.main{
+    display: flex;
+    gap:25px;
+    padding: 10px 10px;
+}
+.main a{
+    text-decoration:none ;
+    color: black;
+}
+.search{
+    display:flex;
+    justify-content:right;
+    flex-direction: row;
+    border-radius:50px;
+}
+.right{
+    display: flex;
+    gap: 25px;
+    padding:10px 10px;
+
+}
+.right a{
+    text-decoration:none;
+    color: black;
+}
+.signin{
+    background-color: green;
+    border-radius: 50px;
+}
+.top{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    
+}
+.top a{
+    color:white;
+    text-decoration: none;
+    padding: 10px 10px;
+}
+.main a:hover{
+    background-color: gray;
+    color:yellow;
+    border-radius: 10px;
+    
+}
+.right a:hover{
+    background-color: gray;
+    color: yellow;
+    border-radius: 10px;
+}
+.top a:hover{
+    
+    color: yellow;
+}    
